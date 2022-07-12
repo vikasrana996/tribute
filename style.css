@@ -41,6 +41,7 @@
     margin-bottom: 20px;
     font-size: 50px;
     font-weight: 500;
+    font-style: italic;
 }
 .about_section p {
      
@@ -56,6 +57,7 @@
     
 }
 .biography_section h3 {
+    font-style: oblique;
     font-size: 30px;
     margin-bottom: 30px;
 
